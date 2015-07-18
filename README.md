@@ -1,6 +1,6 @@
 # tmod
 
-Modify timestamp of a file. Make it look like you modified a file in the past of future.
+Modify a file's timestamp. Make it look like you modified a file in the past or the future.
 
 ## Usage
 ```bash
